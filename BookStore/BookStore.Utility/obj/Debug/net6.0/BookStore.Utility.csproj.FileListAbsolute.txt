@@ -1,0 +1,12 @@
+D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStore.Utility\bin\Debug\net6.0\BookStore.Utility.deps.json
+D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStore.Utility\bin\Debug\net6.0\BookStore.Utility.dll
+D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStore.Utility\bin\Debug\net6.0\BookStore.Utility.pdb
+D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStore.Utility\obj\Debug\net6.0\BookStore.Utility.csproj.AssemblyReference.cache
+D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStore.Utility\obj\Debug\net6.0\BookStore.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStore.Utility\obj\Debug\net6.0\BookStore.Utility.AssemblyInfoInputs.cache
+D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStore.Utility\obj\Debug\net6.0\BookStore.Utility.AssemblyInfo.cs
+D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStore.Utility\obj\Debug\net6.0\BookStore.Utility.csproj.CoreCompileInputs.cache
+D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStore.Utility\obj\Debug\net6.0\BookStore.Utility.dll
+D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStore.Utility\obj\Debug\net6.0\refint\BookStore.Utility.dll
+D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStore.Utility\obj\Debug\net6.0\BookStore.Utility.pdb
+D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStore.Utility\obj\Debug\net6.0\ref\BookStore.Utility.dll
