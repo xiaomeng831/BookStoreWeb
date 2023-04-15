@@ -561,3 +561,6 @@ D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStoreWeb\bin\Debug\net6.
 D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStoreWeb\bin\Debug\net6.0\BookStore.Models.dll
 D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStoreWeb\bin\Debug\net6.0\BookStore.DataAcess.pdb
 D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStoreWeb\bin\Debug\net6.0\BookStore.Models.pdb
+D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStoreWeb\obj\Debug\net6.0\BookStoreWeb.MvcApplicationPartsAssemblyInfo.cs
+D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStoreWeb\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStoreWeb\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll

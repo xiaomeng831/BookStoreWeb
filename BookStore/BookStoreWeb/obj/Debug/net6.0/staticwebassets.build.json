@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "YfBB0bXUO6eFMt1ttSnnpwRkep5lFMA4y6RctcBeKQs=",
+  "Hash": "M9jYfh4QykmbIB96EMqvjMu7FciFPesbx2q62EvahDU=",
   "Source": "BookStoreWeb",
   "BasePath": "_content/BookStoreWeb",
   "Mode": "Default",
@@ -100,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\coding\\learning\\git_repos\\BookStoreWeb\\BookStore\\BookStoreWeb\\wwwroot\\js\\product.js",
+      "SourceId": "BookStoreWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\coding\\learning\\git_repos\\BookStoreWeb\\BookStore\\BookStoreWeb\\wwwroot\\",
+      "BasePath": "_content/BookStoreWeb",
+      "RelativePath": "js/product.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\product.js"
     },
     {
       "Identity": "D:\\coding\\learning\\git_repos\\BookStoreWeb\\BookStore\\BookStoreWeb\\wwwroot\\js\\site.js",

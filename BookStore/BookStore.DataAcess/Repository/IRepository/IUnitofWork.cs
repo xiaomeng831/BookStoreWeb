@@ -9,6 +9,8 @@ namespace BookStore.DataAcess.Repository.IRepository
     public interface IUnitofWork
     {
         ICategoryRepository Category { get; }
+        ICoverTypeRepository CoverType { get; }
+        IProducteRepository Product { get; }
 
         void Save();
     }
