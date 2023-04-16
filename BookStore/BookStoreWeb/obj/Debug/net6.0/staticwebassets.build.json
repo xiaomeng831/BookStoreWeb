@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "M9jYfh4QykmbIB96EMqvjMu7FciFPesbx2q62EvahDU=",
+  "Hash": "RUX8kVYMrXPn4n82N7yQGX9zN6mvlVk0VOXpHrknYy8=",
   "Source": "BookStoreWeb",
   "BasePath": "_content/BookStoreWeb",
   "Mode": "Default",
@@ -100,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\coding\\learning\\git_repos\\BookStoreWeb\\BookStore\\BookStoreWeb\\wwwroot\\images\\products\\3d6bd960-3877-4c38-9855-7a49d36e2a30.jpg",
+      "SourceId": "BookStoreWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\coding\\learning\\git_repos\\BookStoreWeb\\BookStore\\BookStoreWeb\\wwwroot\\",
+      "BasePath": "_content/BookStoreWeb",
+      "RelativePath": "images/products/3d6bd960-3877-4c38-9855-7a49d36e2a30.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\3d6bd960-3877-4c38-9855-7a49d36e2a30.jpg"
     },
     {
       "Identity": "D:\\coding\\learning\\git_repos\\BookStoreWeb\\BookStore\\BookStoreWeb\\wwwroot\\js\\product.js",
