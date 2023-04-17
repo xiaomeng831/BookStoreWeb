@@ -45,8 +45,6 @@ D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStoreWeb\bin\Debug\net6.
 D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStoreWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
 D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStoreWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
 D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStoreWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
-D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStoreWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
-D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStoreWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStoreWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
 D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStoreWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
 D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStoreWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
@@ -136,8 +134,6 @@ D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStoreWeb\bin\Debug\net6.
 D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStoreWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
 D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStoreWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
 D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStoreWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
-D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStoreWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
-D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStoreWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
 D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStoreWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
 D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStoreWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
 D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStoreWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
@@ -565,3 +561,14 @@ D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStoreWeb\obj\Debug\net6.
 D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStoreWeb\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
 D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStoreWeb\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
 D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStoreWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStoreWeb\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStoreWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStoreWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStoreWeb\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStoreWeb\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStoreWeb\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStoreWeb\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStoreWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStoreWeb\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStoreWeb\bin\Debug\net6.0\BookStore.Utility.dll
+D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStoreWeb\bin\Debug\net6.0\BookStore.Utility.pdb
