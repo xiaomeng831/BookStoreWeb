@@ -28,3 +28,4 @@ namespace BookStore.Models
         [NotMapped]
         public double Price { get; set; }
     }
+}

@@ -572,3 +572,4 @@ D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStoreWeb\bin\Debug\net6.
 D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStoreWeb\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
 D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStoreWeb\bin\Debug\net6.0\BookStore.Utility.dll
 D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStoreWeb\bin\Debug\net6.0\BookStore.Utility.pdb
+D:\coding\learning\git_repos\BookStoreWeb\BookStore\BookStoreWeb\bin\Debug\net6.0\Stripe.net.dll
