@@ -22,8 +22,8 @@ namespace BookStoreWeb.Areas.Admin.Controllers
 
         public IActionResult Index()
         {
-            //IEnumerable<Category> objCategoryList = _db.Categories;
-            IEnumerable<Category> objCategoryList = _unitOfWork.Category.GetAll();
+			//IEnumerable<Category> objCategoryList = _db.Categories;
+			IEnumerable<Category> objCategoryList = _unitOfWork.Category.GetAll();
             return View(objCategoryList);
         }
 

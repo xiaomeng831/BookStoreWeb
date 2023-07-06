@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "SYM6DZ1n3zgBpl94g2gBOOn9mXs1uuFeHswhxGdXD4M=",
+  "Hash": "zhWuwMp+Vli9j01oGTHP84XFDsHu+nE9ndGQ1bdrj3g=",
   "Source": "BookStoreWeb",
   "BasePath": "_content/BookStoreWeb",
   "Mode": "Default",
@@ -1122,12 +1122,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\coding\\learning\\git_repos\\BookStoreWeb\\BookStore\\BookStoreWeb\\wwwroot\\images\\lawn_leaf.jpg",
+      "Identity": "D:\\coding\\learning\\git_repos\\BookStoreWeb\\BookStore\\BookStoreWeb\\wwwroot\\images\\book.jpg",
       "SourceId": "BookStoreWeb",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\coding\\learning\\git_repos\\BookStoreWeb\\BookStore\\BookStoreWeb\\wwwroot\\",
       "BasePath": "_content/BookStoreWeb",
-      "RelativePath": "images/lawn_leaf.jpg",
+      "RelativePath": "images/book.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1136,41 +1136,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\lawn_leaf.jpg"
-    },
-    {
-      "Identity": "D:\\coding\\learning\\git_repos\\BookStoreWeb\\BookStore\\BookStoreWeb\\wwwroot\\images\\products\\607df600-0fed-4c8b-96e8-856f8585a342.jpg",
-      "SourceId": "BookStoreWeb",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\coding\\learning\\git_repos\\BookStoreWeb\\BookStore\\BookStoreWeb\\wwwroot\\",
-      "BasePath": "_content/BookStoreWeb",
-      "RelativePath": "images/products/607df600-0fed-4c8b-96e8-856f8585a342.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\607df600-0fed-4c8b-96e8-856f8585a342.jpg"
-    },
-    {
-      "Identity": "D:\\coding\\learning\\git_repos\\BookStoreWeb\\BookStore\\BookStoreWeb\\wwwroot\\images\\products\\a6e1ba78-3f4b-44a8-bed4-ed485d973c34.jpg",
-      "SourceId": "BookStoreWeb",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\coding\\learning\\git_repos\\BookStoreWeb\\BookStore\\BookStoreWeb\\wwwroot\\",
-      "BasePath": "_content/BookStoreWeb",
-      "RelativePath": "images/products/a6e1ba78-3f4b-44a8-bed4-ed485d973c34.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\a6e1ba78-3f4b-44a8-bed4-ed485d973c34.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\book.jpg"
     },
     {
       "Identity": "D:\\coding\\learning\\git_repos\\BookStoreWeb\\BookStore\\BookStoreWeb\\wwwroot\\js\\company.js",

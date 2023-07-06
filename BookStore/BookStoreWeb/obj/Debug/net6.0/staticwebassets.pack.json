@@ -17,16 +17,8 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\coding\\learning\\git_repos\\BookStoreWeb\\BookStore\\BookStoreWeb\\wwwroot\\images\\lawn_leaf.jpg",
-      "PackagePath": "staticwebassets\\images\\lawn_leaf.jpg"
-    },
-    {
-      "Id": "D:\\coding\\learning\\git_repos\\BookStoreWeb\\BookStore\\BookStoreWeb\\wwwroot\\images\\products\\607df600-0fed-4c8b-96e8-856f8585a342.jpg",
-      "PackagePath": "staticwebassets\\images\\products\\607df600-0fed-4c8b-96e8-856f8585a342.jpg"
-    },
-    {
-      "Id": "D:\\coding\\learning\\git_repos\\BookStoreWeb\\BookStore\\BookStoreWeb\\wwwroot\\images\\products\\a6e1ba78-3f4b-44a8-bed4-ed485d973c34.jpg",
-      "PackagePath": "staticwebassets\\images\\products\\a6e1ba78-3f4b-44a8-bed4-ed485d973c34.jpg"
+      "Id": "D:\\coding\\learning\\git_repos\\BookStoreWeb\\BookStore\\BookStoreWeb\\wwwroot\\images\\book.jpg",
+      "PackagePath": "staticwebassets\\images\\book.jpg"
     },
     {
       "Id": "D:\\coding\\learning\\git_repos\\BookStoreWeb\\BookStore\\BookStoreWeb\\wwwroot\\js\\company.js",
