@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "zhWuwMp+Vli9j01oGTHP84XFDsHu+nE9ndGQ1bdrj3g=",
+  "Hash": "tYrXGwwKWteBaantPjevc+q2qUol9AJFE143EqtmuBg=",
   "Source": "BookStoreWeb",
   "BasePath": "_content/BookStoreWeb",
   "Mode": "Default",
@@ -1069,23 +1069,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\coding\\learning\\git_repos\\BookStoreWeb\\BookStore\\BookStoreWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BookStoreWeb.bundle.scp.css"
-    },
-    {
-      "Identity": "D:\\coding\\learning\\git_repos\\BookStoreWeb\\BookStore\\BookStoreWeb\\wwwroot\\css\\bootswatchTheme.css",
-      "SourceId": "BookStoreWeb",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\coding\\learning\\git_repos\\BookStoreWeb\\BookStore\\BookStoreWeb\\wwwroot\\",
-      "BasePath": "_content/BookStoreWeb",
-      "RelativePath": "css/bootswatchTheme.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootswatchTheme.css"
     },
     {
       "Identity": "D:\\coding\\learning\\git_repos\\BookStoreWeb\\BookStore\\BookStoreWeb\\wwwroot\\css\\site.css",
